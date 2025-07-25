@@ -42,3 +42,9 @@ $ python manage.py startapp polls
 
 ```
 
+To play with django shell api
+
+```
+py manage.py shell
+```
+
